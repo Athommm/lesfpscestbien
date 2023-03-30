@@ -28,7 +28,6 @@ body{
     text-align: center;
     margin-top: 3;
     margin-bottom: 0;
-    padding-bottom: 8;
 }
 .navbar {
     overflow: hidden;
@@ -36,7 +35,6 @@ body{
     top: 0;
     margin: 0;
   }
-  
   .navbar a {
     float: left;
     color: white;
@@ -45,38 +43,29 @@ body{
     text-decoration: none;
     font-size: 17px;
   }
-  
   .navbar a:hover {
     background-color: #ddd;
     color: black;
   }
-
-  
   .navbar a.home{
     float: right;
     padding: 8px 8px;
   }
-  
   .navbar a.cube img{
     height: 33px;
   }
-  
   #game{
     scroll-margin-top: 53px;
   }
-  
   #cs2{
     scroll-margin-top: 53px;
   }
-  
   #valorant{
     scroll-margin-top: 53px;
   }
-  
   #ow2{
     scroll-margin-top: 53px;
   }
-  
   #fortnite{
     scroll-margin-top: 53px;
   }
